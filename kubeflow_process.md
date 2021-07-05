@@ -72,7 +72,7 @@ eksctl create cluster -f KubeflowOnEKS.yaml
 
 
 #### 2.准备
-在global，使用如下的几步基本上就可以安装好Kubeflow，是相当的简单  
+在global，使用如下的步骤可以安装好Kubeflow  
 
 1)列出这里变量的信息,后续安装步骤需要使用
 ```
